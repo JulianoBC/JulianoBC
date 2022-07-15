@@ -9,7 +9,7 @@ JulianoBC/JulianoBC is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-uses: Platane/snk@v2
+- uses: Platane/snk@v2
   with:
     # github user name to read the contribution graph from (**required**)
     # using action context var `github.repository_owner` or specified user
