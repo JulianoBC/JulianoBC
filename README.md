@@ -14,3 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
+
+
+- name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v2.0.0-rc.2
