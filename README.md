@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JulianoBC
-- 👀 I’m interested in ...Back End
+- 👀 I’m interested in ... programming
 - 🌱 I’m currently learning ... Python, Javascrip, ReactJs Node.Js, Bootstrap, Ajax , SQLite3, SQL
 - 💞️ I’m looking to collaborate on ...everyone
 - 📫 How to reach me ...just pm
