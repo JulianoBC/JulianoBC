@@ -1,25 +1,36 @@
-- 👋 Hi, I’m @JulianoBC
-- 👀 I’m interested in ... programming
-- 🌱 I’m currently learning ... Python, Javascrip, ReactJs Node.Js, Bootstrap, Ajax , SQLite3, SQL
-- 💞️ I’m looking to collaborate on ...everyone
-- 📫 How to reach me ...just pm
+# Hi there! 👋 I'm Juliano Beig Capretz
 
- ![gitartwork](gitartwork.svg)
-<!---
-JulianoBC/JulianoBC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 💫 About Me
+I'm a passionate developer focused on web development and constantly expanding my skillset. I love creating solutions that make a difference and am always eager to learn new technologies.
 
+## 🛠️ Tech Stack
+### Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
+
+### Backend
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Database
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+
+## 📊 GitHub Stats
+![gitartwork](gitartwork.svg)
 
 ![Snake animation](https://github.com/JulianoBC/JulianoBC/blob/output/github-contribution-grid-snake.svg)
 
+## 🤝 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliano-beig-capretz/)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jbcapmi@outlook.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jucapretz/)
 
-_generated with [Platane/snk](https://github.com/Platane/snk)_
+## 👥 Open to Collaboration
+I'm always interested in collaborating on exciting projects! If you have an interesting project or idea, feel free to reach out.
 
-<div> 
-  <h3 dir="auto"><a id="user-content--contact" class="anchor" aria-hidden="true" href="#-contact"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="handshake" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f91d.png">🤝</g-emoji> Contact</h3> 
-  <a href="https://www.linkedin.com/in/juliano-beig-capretz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:jbcapmi@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/jucapretz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  
-  
+---
+_Generated with 💜 by [Juliano](https://github.com/JulianoBC)_
