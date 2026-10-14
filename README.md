@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Juliano Beig Capretz
 
-**Senior Full Stack Developer** · C#/.NET · Golang · TypeScript · Astro/React
+**Mid-Level Full Stack Developer** · C#/.NET · Golang · TypeScript · Astro/React
 📍 Rio Claro, SP — open to on-site, hybrid (Campinas–São Paulo) or remote
 
 ## 💫 About Me
