@@ -16,7 +16,7 @@ test and diagnose faster in lean teams.
 
 ## 🚀 What I've Delivered
 
-**ERP modernization & billing @ Xsyslab (2023–present)**
+**ERP modernization & billing for a 40+ franchise network (2023–present)**
 - Rebuilt the network billing engine: replaced a risky 3 AM batch with monitored,
   distributed daytime charges — no more DB lock storms, real-time rejection handling.
 - Central plan-governance panel with full audit trail for the franchisor.
